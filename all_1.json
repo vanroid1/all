@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "id": "sv-001",
+      "name": "Серия RSP",
+      "categoryPath": ["Клапаны электромагнитные", "Резьбовые", "Непрямого действия"],
+      "img": "https://iili.io/qnAzS5u.png",
+      "desc": "Тип клапана: Тип клапана: 2/2, НЗ, НО \nМатериал корпуса: \nКорпус: Латунь/Нерж.сталь \nДиапазон давления: 0,03 — 1,6 МПа. \nТемпература раб. среды: -20…+130°C. \nДу: 3.8 — 2 \nНазначение: дистанционное управление подачей и отсечкой потоков газов и жидкостей (вязкость < 20 сСт)",
+      "tags": ["DN15-50", "0,3–16 bar", "Непрямого действия"],
+      "url": "https://ef-e.ru/rsp",
+      "catalogUrl": "https://drive.google.com/uc?export=download&id=1y88KvxRTomJi2h4-wLHLDPoIw3syVNTg",
+      "createdAt": "2026-02-10"
+    },
+    {
+      "id": "sv-0022",
+      "name": "Серия 2W",
+      "categoryPath": ["Клапаны электромагнитные", "Резьбовые", "Прямого действия"],
+      "img": "https://iili.io/qnAo4kb.png",
+      "desc": "Тип клапана: Тип клапана: 2/2, НЗ, НO \nМатериал корпуса: Пластитк \nДиапазон давления: 0 — 1 МПа. \nТемпература среды: -20…+130°C. DN: 15-50. \nНазначение: дистанционное управление подачей и отсечкой потоков газов и жидкостей (вязкость < 20 сСт)",
+      "tags": ["DN15-50", "0–10 bar", "Непрямого действия"],
+      "url": "https://ef-e.ru/2w",
+      "catalogUrl": "https://drive.google.com/uc?export=download&id=1NbUti49X3Zl_kxJdpIjMIqkJtaTfMHF0",
+      "createdAt": "2026-02-10"
+    },
+    {
+      "id": "sv-0023",
+      "name": "Серия 2W-SL",
+      "categoryPath": ["Клапаны электромагнитные", "Резьбовые", "Прямого действия"],
+      "img": "https://iili.io/qnTf2It.png",
+      "desc": "Тип клапана:  2/2, НЗ, НO \nМатериал корпуса: Пластик \nДиапазон давления: 0 — 0,7 МПа. \nТемпература среды: -20…+130°C. \nDN: 15-50. \nНазначение: Для отсечки и управления потоками жидкостей и газов при отсутствии или малом перепаде давления, с возможностью работы от 0 МПа",
+      "tags": ["DN15-50", "0–7 bar", "Пластик"],
+      "url": "https://ef-e.ru/2w-sl",
+      "catalogUrl": "https://drive.google.com/uc?export=download&id=1VwqMKOa3kusjsQlKxn6F1fgGgz5z9Zco",
+      "createdAt": "2026-02-10"
+    },
+    {
+      "id": "sv-0033",
+      "name": "Серия 2W-JF",
+      "categoryPath": ["Клапаны электромагнитные", "Фланцевые", "Прямого действия"],
+      "img": "https://iili.io/qnTeW6N.png",
+      "desc": "Тип клапана: 2/2, Н/З, НО. \nМатериал корпуса: Латунь/Нерж.сталь. \nДиапазон давления: 0 — 1 МПа. \nТемпература среды: -20…+130°C. \nDN: 15-50. \nНазначение: для автоматического перекрытия и открытия потока воды, воздуха, легких масел и других нейтральных сред. Работает даже при нулевом дифференциальном давлени",
+      "tags": ["DN15-50", "0–10 bar ", "Фланцевый"],
+      "url": "https://ef-e.ru/rsp-jf",
+      "catalogUrl": "https://drive.google.com/uc?export=download&id=1FxPhIx8HqSgAAFF6IwgVB1_PmaMl32QR",
+      "createdAt": "2026-02-10"
+    },
+    {
+      "id": "sv-0034",
+      "name": "Серия RSP-JF",
+      "categoryPath": ["Клапаны электромагнитные", "Фланцевые", "Непрямого действия"],
+      "img": "https://iili.io/qnT6R6b.png",
+      "desc": "Тип клапана: 2/2, Н/З, НО. \nМатериал корпуса: Нерж.сталь. \nДиапазон давления: 0,03 — 1,6 МПа. \nТемпература среды: -20…+130°C. \nDN: 15-50. \nНазначение: для автоматического перекрытия и открытия потока воды, воздуха, легких масел и других нейтральных сред. Работает даже при нулевом дифференциальном давлени",
+      "tags": ["DN15-50", "0.3–16 bar ", "Фланцевый"],
+      "url": "https://ef-e.ru/2w-jf",
+      "catalogUrl": "https://drive.google.com/uc?export=download&id=11Pv-j_0cGZIM0e6V9x9Dm4fzkSoeBfPAb",
+      "createdAt": "2026-02-10"
+    },
+    {
+      "id": "sv-0035",
+      "name": "Серия ZCF",
+      "categoryPath": ["Клапаны электромагнитные", "Резьбовые", "Прямого действия"],
+      "img": "https://allwebs.ru/images/2026/03/19/7e94c23739da8abdc47fe8bb3e6f12b6.png",
+      "desc": "Тип клапана: 2/2, НЗ, НО. \nМатериал корпуса: PTFE. Диапазон давления: 0 — 0,4 МПа. \nТемпература среды: -10…+80°C. DN: 3.8-1''. \nНазначение: дистанционное управление подачей и отсечкой потоков газов и жидкостей (вязкость < 20 сСт)",
+      "tags": ["DN10-25", "0–4 bar", "Коррозионностойкие"],
+      "url": "https://ef-e.ru/zcf",
+      "catalogUrl": "https://drive.google.com/uc?export=download&id=1OpYQVbbASU-AFVVpLkbjiik0QoHOZ3bf",
+      "createdAt": "2026-02-10"
+    },
+    {
+      "id": "sv-0036",
+      "name": "Серия YSE",
+      "categoryPath": ["Клапаны электромагнитные", "Резьбовые", "Прямого действия"],
+      "img": "https://allwebs.ru/images/2026/03/19/666a6cbf526ea445393747a0746087cf.png",
+      "desc": "Тип клапана: 2/2, НЗ, НО. \nМатериал корпуса: Нерж.сталь. \nДиапазон давления: 0 — 30 МПа. \nТемпература среды: -10…+80°C. DN: 3.8-2''. \nНазначение:для отсечки и управления потоками при высоком давлении в гидравлических и пневматических системах",
+      "tags": ["DN10-25", "0-300 bar", "Высокое давление"],
+      "url": "https://ef-e.ru/yse",
+      "catalogUrl": "https://drive.google.com/uc?export=download&id=17GNOGmi-5b5qF5YzhrQphp2HNTYxuqTq",
+      "createdAt": "2026-02-10"
+    },
+    {
+      "id": "sv-1001",
+      "name": "Клапан обратный межфланцевый",
+      "categoryPath": ["Оборудование Gala", "HVAC"],
+      "img": "https://allwebs.ru/images/2026/03/20/4447a8848e5f69b1656aa676a9af748b.png",
+      "desc": "PN16 \nDN40-400 \nМатериал диска: СТАЛЬ CF8 или ЧУГУН GGG40   \nТемпература среды: -10…+120°C.",
+      "tags": ["теги сюда добавить любые можно", "Или описание", "120 градусов"],
+      "url": "https://drive.google.com/uc?export=download&id=1aVL1zvARevjJlmuMgfhrn1ESLnRRJsBz",
+      "catalogUrl": "https://drive.google.com/uc?export=download&id=1aVL1zvARevjJlmuMgfhrn1ESLnRRJsBz",
+      "createdAt": "2026-02-10"
+    },
+    {
+      "id": "sv-1002",
+      "name": "Затвор дисковый поворотный межфланцевый",
+      "categoryPath": ["Оборудование Gala", "HVAC"],
+      "img": "https://allwebs.ru/images/2026/03/20/270617acf0f2777a997cbdae6a43d15f.png",
+      "desc": "PN16 \nDN40-400 \nEPDM \nМатериал диска: СТАЛЬ CF8 или ЧУГУН GGG40  \nТемпература среды: -10…+120°C.",
+      "tags": ["теги сюда добавить любые можно", "Или описание", "120 градусов"],
+      "url": "https://drive.google.com/uc?export=download&id=1Rg4r2vo7n64T3aKVNKwA00DkwIEOiVuf",
+      "catalogUrl": "https://drive.google.com/uc?export=download&id=1Rg4r2vo7n64T3aKVNKwA00DkwIEOiVuf",
+      "createdAt": "2026-02-10"
+    },
+    {
+      "id": "sv-1003",
+      "name": "Трехходовой клапан с электроприводом",
+      "categoryPath": ["Оборудование Gala", "Регулирующие клапана", "Трехходовые"],
+      "img": "https://allwebs.ru/images/2026/03/20/51c6e6ad01c3c9b2e8d7b25e1a2fdcdf.png",
+      "desc": "PN16 \nDN40-450 \nфланцевый EN1092-2 \n\nТемпература среды: -10…+150°C.",
+      "tags": ["корпус серый чугун EN-GJL-250 (DN25-DN100)", "высокопрочный чугун GJS-400-18 (DN125-DN150)"],
+      "url": "https://drive.google.com/uc?export=download&id=1R_7pVjFs0iNljfP_qri7FEpngTimv5r8",
+      "catalogUrl": "https://drive.google.com/uc?export=download&id=1R_7pVjFs0iNljfP_qri7FEpngTimv5r8",
+      "createdAt": "2026-02-10"
+    },
+    {
+      "id": "sv-1004",
+      "name": "Трехходовой клапан с электроприводом",
+      "categoryPath": ["Оборудование Gala", "Регулирующие клапана", "Двухходовые"],
+      "img": "https://allwebs.ru/images/2026/03/20/2dd16fdeece83dc341538d9d2118e346.png",
+      "desc": "PN16 \nDN40-450 \nфланцевый EN1092-2 \n\nТемпература среды: -10…+150°C.",
+      "tags": ["корпус серый чугун EN-GJL-250 (DN25-DN100)", "высокопрочный чугун GJS-400-18 (DN125-DN150)"],
+      "url": "https://drive.google.com/uc?export=download&id=1RukKumZB20jXLgThJVffawCAUEZkNRC-",
+      "catalogUrl": "https://drive.google.com/uc?export=download&id=1RukKumZB20jXLgThJVffawCAUEZkNRC-",
+      "createdAt": "2026-02-10"
+    }
+  ]
+}
